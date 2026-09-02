@@ -43,8 +43,6 @@ This project aims to answer:
 * NumPy
 * Scikit-Learn
 * LightGBM
-* Matplotlib
-* Seaborn
 * Statistics
 
 ---
